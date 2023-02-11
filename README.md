@@ -1,2 +1,2 @@
-# animation_for_beginners
-https://dialectician93.github.io/animation_for_beginners/
+# Animation_For_Beginners
+https://dialectician93.github.io/Animation_For_Beginners/
